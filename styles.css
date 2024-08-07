@@ -1,0 +1,37 @@
+
+html{background-color: rgba(66, 103, 178, 0.326);}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgba(120, 175, 210, 0.432);
+    margin:30px;
+    border:solid black 2px;
+    border-radius: 10%;
+    min-height:500px;
+    padding:30px;
+}
+h1 {
+    font-size: 30px;
+    padding: 20px;
+text-align: center;}
+
+.navigation {
+    display:inline-block;
+    border: solid 1px black;
+    padding: 5px 10px;
+    margin:auto;
+}
+
+.ingredient-item {padding:px;}
+
+button {padding:5px;
+display:block;
+margin-left:auto;
+border:auto;
+border-radius:10%;}
+
+button:hover {
+    background-color: aqua;
+    text-decoration: underline; 
+}
+      
